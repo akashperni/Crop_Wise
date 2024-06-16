@@ -67,12 +67,12 @@ To deploy this application on Heroku:
    ```sh
    git push heroku master
 
-3: **Open the application**:
+3. **Open the application**:
    ```sh
    heroku open
 
 
-## Deployment
+## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
