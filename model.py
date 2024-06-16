@@ -148,3 +148,9 @@ model_path = os.path.join(model_dir, model_filename)
 save_model(model, model_path)
 
 print("Model saved successfully.")
+import base64
+
+with open("/Users/akashperni/Desktop/project/Crop_Wise/output_screen.png", "rb") as image_file:
+    encoded_string = base64.b64encode(image_file.read()).decode("utf-8")
+
+print(f"![Output Screen](data:image/png;base64,{encoded_string})")
