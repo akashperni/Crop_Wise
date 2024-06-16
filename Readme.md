@@ -1,6 +1,6 @@
 # CropWise 🌿
 
-CropWise is an AI-powered application designed to recommend the most suitable crops to grow on a farm based on various input parameters. This project leverages machine learning techniques to provide precise and accurate crop recommendations, thus aiding precision agriculture.
+CropWise is an ML-powered application designed to recommend the most suitable crops to grow on a farm based on various input parameters. This project leverages machine learning techniques to provide precise and accurate crop recommendations, thus aiding precision agriculture.
 
 ## Features
 
@@ -71,19 +71,17 @@ To deploy this application on Heroku:
    ```sh
    heroku open
 
-## License
 
+## Deployment
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
-
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
 
 ## Acknowledgments
-
 - Special thanks to the creators of Streamlit and the machine learning libraries used in this project.
 - Inspired by the need for precision agriculture and the benefits it can bring to the farming community.
 
----
+-----------------------------------------------------------------
 
-*Note: This A.I. application is for educational/demo purposes only and cannot be relied upon for actual agricultural decisions.*
+- **Note**: This M.L. application is for educational/demo purposes only and cannot be relied upon for actual agricultural decisions.*
