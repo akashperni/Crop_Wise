@@ -20,7 +20,7 @@ Check out the live demo [here](https://akash-cropwise-625097d1df01.herokuapp.com
 
 ## Output Screen
 
-![Output Screen](https://drive.google.com/file/d/1dnO4MsDFQbMuA63w-hAX9fvvpJzSdk7T/view?usp=sharing)
+![Output Screen](https://drive.google.com/file/d/1dnO4MsDFQbMuA63w-hAX9fvvpJzSdk7T/view?usp=drive_link)
 
 ## Installation
 
