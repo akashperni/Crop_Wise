@@ -10,7 +10,7 @@ CropWise is an ML-powered application designed to recommend the most suitable cr
 
 ## Live Demo
 
-Check out the [live demo here](https://akash-cropwise-625097d1df01.herokuapp.com/).
+Check out the [live demo here](https://cropwisegit-18.streamlit.app/).
 
 ## How It Works
 
