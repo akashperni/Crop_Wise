@@ -20,7 +20,7 @@ Check out the live demo [here](https://akash-cropwise-625097d1df01.herokuapp.com
 
 ## Output Screen
 
-![Output Screen](/Users/akashperni/Desktop/project/Crop_Wise/output_screen.png)
+![Output Screen](https://Users/akashperni/Desktop/project/Crop_Wise/output_screen.png)
 
 ## Installation
 
