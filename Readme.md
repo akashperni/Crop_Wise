@@ -18,6 +18,10 @@ Check out the live demo [here](https://akash-cropwise-625097d1df01.herokuapp.com
 2. **Model Prediction**: The model predicts the most suitable crop based on the provided inputs.
 3. **Results**: Displays the recommended crop to the user.
 
+## Output Screen
+
+![Output Screen](/Users/akashperni/Desktop/project/Crop_Wise/output_screen.png)
+
 ## Installation
 
 To run this project locally, follow these steps:
